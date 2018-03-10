@@ -1,0 +1,18 @@
+{
+  "name": "es6-utility-functions",
+  "description": "Useful utility functions for any ES6 project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Lauri Mäkinen",
+    "email": "lauri@mits.fi"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
